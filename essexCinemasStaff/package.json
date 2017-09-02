@@ -1,0 +1,22 @@
+{
+  "name": "essex-cinemas-staff",
+  "version": "1.0.0",
+  "description": "Staff Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Essex-Cinemas-Staff"
+  },
+  "keywords": [
+    "essex",
+    "cinemas",
+    "theater",
+    "theatre",
+    "staff"
+  ],
+  "author": "Tyler Beckwith",
+  "license": "ISC"
+}
